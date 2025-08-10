@@ -41,4 +41,11 @@ The dataset contains anonymized HR employee records, including:
 4. Navigate between pages using **buttons** for an interactive presentation.
 
 ## 📸 Preview
-*(Add screenshots of each dashboard here for a quick visual overview)*
+## Dashboard 1
+![Dashboart 1](https://github.com/Shushant-Kharate/PowerBi_Hr_Analytics/blob/main/Dashbaord%201.png)
+
+## Dashboard 2
+![Dashboard 2](https://github.com/Shushant-Kharate/PowerBi_Hr_Analytics/blob/main/Dashboard%202.png)
+
+## Dashboard 3
+![Dashboard 3](https://github.com/Shushant-Kharate/PowerBi_Hr_Analytics/blob/main/Dashboard%203.png)
