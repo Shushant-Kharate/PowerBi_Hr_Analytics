@@ -1,5 +1,7 @@
 # HR Analytics Power BI Dashboard
 
+![HR Analysis](https://github.com/Shushant-Kharate/PowerBi_Hr_Analytics/blob/main/HR%20Analytics%20image.webp)
+
 ## 📌 Project Overview
 This Power BI project provides a comprehensive analysis of HR data to uncover workforce trends, identify attrition drivers, and support data-driven decision-making.  
 The dashboards are designed for **HR teams, business managers, and executives** to monitor KPIs, explore employee composition, and analyze factors influencing retention and career growth.
