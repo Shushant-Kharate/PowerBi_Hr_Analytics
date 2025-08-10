@@ -49,3 +49,16 @@ The dataset contains anonymized HR employee records, including:
 
 ## Dashboard 3
 ![Dashboard 3](https://github.com/Shushant-Kharate/PowerBi_Hr_Analytics/blob/main/Dashboard%203.png)
+
+
+## 🙏 Thank You
+
+Thank you for checking out my **HR Analytics Power BI Dashboard** project!  
+I hope this inspires you to explore how **data visualization** can turn raw information into actionable insights.  
+If you found this project helpful, feel free to ⭐ star the repository and share your feedback.  
+
+📬 **Connect with me:**  
+[LinkedIn](www.linkedin.com/in/shushant-kharate-2b490a376) | [GitHub](https://github.com/Shushant-Kharate/PowerBi_Hr_Analytics) | [Email](skharate215@gmail.com)  
+
+Happy Analyzing! 📊
+
